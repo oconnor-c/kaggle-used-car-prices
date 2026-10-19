@@ -1,0 +1,8 @@
+# 核心依赖
+numpy>=2.0
+pandas>=2.2.2
+matplotlib>=3.7
+
+# PyTorch：GPU 版需按官方指引单独安装（见 README），
+# 不要直接 pip install torch，否则默认得到 CPU 版
+# torch>=2.5
